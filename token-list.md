@@ -37,5 +37,5 @@ These are the **ONLY** verified contract addresses for the tokens in the Radon E
 ---
 
 ☢️ Return to [Welcome Page](./README.md)
-Created token-list.md with verified contracts
+
 
