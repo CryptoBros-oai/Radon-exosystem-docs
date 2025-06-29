@@ -38,6 +38,8 @@ Together, these tokens form a sustainable ecosystem where yield is not only real
 
 ***
 
+Need token addresses fast? [📜 View Official Token List](./token-list.md)
+
 ### 📜 Quick Start
 
 1. **Buy on PulseX** – Each token is paired and active on-chain.
