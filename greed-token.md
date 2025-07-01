@@ -1,6 +1,7 @@
 # 💰 GREED – Incentive Weaponized  
 *"It is not a vice here. It is a feature."*
 
+CA:0x33F6a9dBD14D2cAE6bB2a99A177806eFD81B884B
 ---
 
 ## 🧬 What Is GREED?
